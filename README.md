@@ -47,7 +47,7 @@ The aim of this project is to create a comprehensive and visually appealing pers
 
 ## License
 
-No liscense. 
+No license. 
 
 ## Contact
 
