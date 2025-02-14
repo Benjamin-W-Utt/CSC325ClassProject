@@ -29,43 +29,7 @@ Each file contains the following information about the persona:
 - **Demographics**: Key demographic details (age, education, background).
 - **Goals**: What the persona hopes to achieve by interacting with the website.
 - **Frustrations**: Potential pain points or challenges the persona may face.
-- **Needs**: What the persona needs from the website (features, content, or functionality).
-- **Technology Use**: The level of comfort with technology and platforms.
 - **Narrative**: A brief narrative or scenario illustrating how they interact with the software
-  
-### Example Persona File
-
-#### `potential_employer.md`
-
-```markdown
-## Persona: Potential Employer
-
-### Role/Title
-- Hiring Manager at a Software Development Company
-
-### Goals
-- Assess the candidate's technical skills and experience.
-- Find evidence of problem-solving abilities, coding skills, and project completion.
-- Evaluate the candidate's communication and presentation skills.
-
-### Frustrations
-- Overwhelming or poorly organized portfolio.
-- Lack of clear information about projects and their impact.
-- Inaccessible or non-functional website elements.
-
-### Needs
-- Clean, easy-to-navigate portfolio showcasing relevant projects.
-- Downloadable resume in PDF format.
-- Clear call-to-action to initiate contact or schedule an interview.
-
-### Demographics
-- Age: 35-50
-- Education: Bachelor's degree in Computer Science or related field
-- Background: 10+ years of experience in hiring for technical roles.
-
-### Technology Use
-- Comfortable with using web technologies and online portfolios.
-```
 
 ## How to Use the User Personas
 
@@ -75,7 +39,4 @@ These personas are designed to inform decisions about the portfolio's structure,
 - **Design Decisions**: Ensure that the layout and user experience are optimized for the different technology comfort levels of the personas.
 - **Feature Prioritization**: Focus on adding features that address the specific frustrations and needs of each persona.
 - **Usability Testing**: When testing the portfolio, consider how each persona would interact with the website and whether their goals are met effectively.
-
-## Contributing
-
-If you have additional personas to add, please follow the format outlined in this README and submit a pull request with your new persona file.
+- 
