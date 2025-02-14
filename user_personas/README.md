@@ -12,9 +12,9 @@ The user personas in this directory will represent the following key stakeholder
 
 1. **Potential Employers**: Hiring managers, recruiters, or company representatives who will evaluate the portfolio to assess the student's qualifications, technical skills, and fit for potential job roles.
 
-2. **Owner**: The person represented by the website whose information will make up the main content.
+2. **Owner**: The person or entity that owns the rights to the software and oversees its development and distribution, who is represented by the website whose information will make up the main content. 
 
-3. **Developers**: Web developers working collaboratively to construct the website and organize its content. 
+3. **Developers**: Web developers working collaboratively to construct the website and organize its content, responsible for designing, coding, and maintaining the software.
 
 ## Directory Structure
 
