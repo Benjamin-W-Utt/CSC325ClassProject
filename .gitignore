@@ -1,2 +1,2 @@
 # Ignore ALL files in the style directory, created upon "vale sync"
-./styles/
+**/styles
